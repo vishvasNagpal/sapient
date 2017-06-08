@@ -10,9 +10,9 @@ Please follow the instructions below:
 
 1. In order to Run the application, NodeJs must be installed on the Machine.
 
-2. Unzip the folder at some location in the Machine.
+2. Download the project and Unzip the folder at some location in the Machine.
 
-3. CD the "SA" Folder.
+3. CD the "sapient-master" Folder.
 
 4. From command prompt run Command:  "node app.js"
 
